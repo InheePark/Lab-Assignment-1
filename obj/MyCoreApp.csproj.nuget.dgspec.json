@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\MyCoreApp\\MyCoreApp.csproj": {}
+    "/Users/inheepark/Desktop/Untitled/Lab-Assignment-1/MyCoreApp.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\MyCoreApp\\MyCoreApp.csproj": {
+    "/Users/inheepark/Desktop/Untitled/Lab-Assignment-1/MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\MyCoreApp\\MyCoreApp.csproj",
+        "projectUniqueName": "/Users/inheepark/Desktop/Untitled/Lab-Assignment-1/MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\MyCoreApp\\MyCoreApp.csproj",
-        "packagesPath": "C:\\Users\\inheepark\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\MyCoreApp\\obj\\",
+        "projectPath": "/Users/inheepark/Desktop/Untitled/Lab-Assignment-1/MyCoreApp.csproj",
+        "packagesPath": "/Users/inheepark/.nuget/packages/",
+        "outputPath": "/Users/inheepark/Desktop/Untitled/Lab-Assignment-1/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\inheepark\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/inheepark/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     }
